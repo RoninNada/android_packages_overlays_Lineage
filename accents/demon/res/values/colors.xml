@@ -15,11 +15,25 @@
     limitations under the License.
 -->
 <resources>
+
+    <!-- Power menu items -->
+    <color name="power_menu_icons">#EC0928</color>
+
+    <!-- Settings icon tint color -->
+    <color name="settings_icon_tint_color">#EC0928</color>
+
+    <!-- Notification info -->
+    <color name="notification_info_button_text">#EC0928</color>
+
     <color name="accent_device_default_700">#EC0928</color>
     <color name="accent_device_default_dark">#EC0928</color>
     <color name="accent_device_default_light">#EC0928</color>
+    <color name="material_deep_teal_50">#EC0928</color>
+    <color name="material_deep_teal_100">#EC0928</color>
     <color name="material_deep_teal_200">#EC0928</color>
+    <color name="material_deep_teal_300">#EC0928</color>
     <color name="material_deep_teal_500">#EC0928</color>
+    <color name="material_deep_teal_700">#EC0928</color>
     <color name="notification_icon_bg_color">#EC0928</color>
     <color name="system_notification_accent_color">#EC0928</color>
 </resources>
